@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Karina;Stoque;;;
-FN: Fabio  Silva 
+N:Alan;Gomes;;;
+FN: Alan Gomes 
 ORG:GH Wesco;
-TITLE:Gerente de Vendas\nComercial
-EMAIL;type=INTERNET;type=WORK;type=pref:karina.stoque@ghwesco.com.br
-TEL;type=WORK;type=VOICE:11 99235 7193
-item1.ADR;type=WORK;type=pref:;;Rua Machado Bitencourt\, 361 \, 4 andar;;;Vila da Saúde;São Paulo
+TITLE:Analista de Suporte Comercial\nComercial
+EMAIL;type=INTERNET;type=WORK;type=pref:alan.gomes@ghwesco.com.br
+TEL;type=WORK;type=VOICE:11 99696 8973
+item1.ADR;type=WORK;type=pref:;;Rua da Alfândega\, 81 \, 3 andar;;;Centro;Rio de Janeiro
 item1.X-ABADR:sg
 item2.URL;type=pref:https://ghwesco.com.br/
 item2.X-ABLabel:_$!<HomePage>!$_
